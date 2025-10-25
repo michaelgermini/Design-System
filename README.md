@@ -1,4 +1,4 @@
-# 📚 Design System : Le Guide Complet
+# 📚 Design System
 
 > **De la théorie à la pratique : Créez, implémentez et maintenez un design system professionnel**
 
