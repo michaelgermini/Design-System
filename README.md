@@ -473,15 +473,6 @@ Merci également aux reviewers et contributeurs qui ont amélioré ce contenu.
 
 ---
 
-## 📞 Contact & Support
-
-- **Questions** : Ouvrez une issue GitHub
-- **Discussions** : Rejoignez notre Discord
-- **Updates** : Suivez sur Twitter
-- **Newsletter** : design-systems-book.com
-
----
-
 ## 🎯 Prêt à Commencer ?
 
 **Prochaine étape** : [📖 Lire la Préface](00-Introduction/00-preface.md)
